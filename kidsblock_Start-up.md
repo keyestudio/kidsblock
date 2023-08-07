@@ -24,10 +24,10 @@ In addition to graphics, it also supports Arduino and MicroPthon. Common hardwar
 * For Windows System: [xiazai.keyesrobot.cn/KidsBlock.exe](https://xiazai.keyesrobot.cn/KidsBlock.exe)
 * For MAC System: [xiazai.keyesrobot.cn/KidsBlock.dmg](https://xiazai.keyesrobot.cn/KidsBlock.dmg)
 
-### Video Guidance of Installation for MAC System
+Video Guidance of Installation for MAC System
 Video: 
 
-### Video Guidance of Installation for Windows System
+Video Guidance of Installation for Windows System
 Video:
 
 ## 3. Install Driver
@@ -41,7 +41,7 @@ Click ![image-20230530152728047](media/image-20230530152728047.png) at the upper
 
 
 ## 5. Commonly-used Functions
-### 5-1 Select a Hardware
+5-1 Select a Hardware
 By default, the main interface is Scratch animation programming. At this time, if there is no device connected, you do not need to shift the interface, which is the same as that of Scratch3.0.
 
 When you want to link a hardware to your computer, you need to click ![image-20230530153449783](media/image-20230530153449783.png)select one: 
