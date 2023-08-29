@@ -16,7 +16,7 @@ Besides, to prevent children from focusing on the use of tools when learning, th
 
 Based on learning and application, it simplifies code through graphical building blocks to make learning and understanding much easier. What's more, source code is displayed on the right during the whole process, so you can also learn the underlying code.
 
-In addition to graphics, it also supports Arduino and MicroPthon. Common hardware support: Arduino series, Micro:bit, ESP8266, ESP32.
+In addition to graphics, it also supports Arduino and MicroPython. Common hardware support: Arduino series, Micro:bit, ESP8266, ESP32.
 
 
 ## 2. Download Software
