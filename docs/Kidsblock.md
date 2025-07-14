@@ -16,7 +16,7 @@
 
 ![i](./media/i.gif)
 
-# 3. How to use KidsBlock
+## 3. How to use KidsBlock
 
 1、operating software
 
